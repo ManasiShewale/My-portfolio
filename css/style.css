@@ -138,7 +138,7 @@ button:hover {
     animation-direction: normal;
 }
 
-@keyframes images {
+/* @keyframes images {
     from {
         height: 15rem;
         width: 15rem;
@@ -146,5 +146,5 @@ button:hover {
     to {
         height: 16rem;
         width: 16rem;
-    }
+    } */
 }
